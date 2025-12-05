@@ -30,8 +30,7 @@ jobs:
 
     - name: Build APK with Flet
       run: |
-        export ENV_NAME="Calculadora SE"
-        flet build apk --module-name main --product-name "$ENV_NAME" --verbose
+        flet build apk --module-name main --verbose
         
     - name: Upload APK
       uses: actions/upload-artifact@v4
