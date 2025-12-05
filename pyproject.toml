@@ -1,4 +1,5 @@
 [tool.flet]
 product_name = "Calculadora SE"
+project_name = "calculadora_se"
 org = "com.misael"
 author = "Misael De la Cruz"
