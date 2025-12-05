@@ -1,5 +1,4 @@
 [tool.flet]
-product_name = "Calculadora UAM"
+product_name = "Calculadora SE"
 org = "com.misael"
-product_description = "Calculadora de Ingeniería para Sistemas de Ecuaciones"
 author = "Misael De la Cruz"
