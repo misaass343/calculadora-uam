@@ -1,0 +1,5 @@
+[tool.flet]
+product_name = "Calculadora UAM"
+org = "com.misael"
+product_description = "Calculadora de Ingeniería para Sistemas de Ecuaciones"
+author = "Misael De la Cruz"
